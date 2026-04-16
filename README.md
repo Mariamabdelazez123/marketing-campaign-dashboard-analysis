@@ -22,7 +22,8 @@ It helps in understanding user behavior, campaign effectiveness, and supports da
 
 ## 🛠️ Tools Used
 - Power BI  
-- Excel  
+- Excel
+- Bower Queiry
 
 ---
 
@@ -50,12 +51,4 @@ It helps in understanding user behavior, campaign effectiveness, and supports da
 - Multi-dimensional analysis (Time, Demographics, Products)  
 - Dynamic and user-friendly visualizations  
 
----
-
-## 📸 Dashboard Preview
-(Add your screenshots here)
-
----
-
-## 🎥 Demo Video
-(Add your video link here if available)
+-
